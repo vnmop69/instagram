@@ -1,0 +1,160 @@
+.pgtop{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+
+
+.phone{
+    position: relative;
+    left: 320px;
+    width: 400px;
+}
+
+.phone1{
+    position: relative;
+    top: 10px;
+width: 400px;
+
+}
+
+
+.text{
+position: relative;
+top: 65px;
+left: 85px;
+width: 175px;
+}
+
+.login{
+border: 1px solid rgb(128, 128, 128,0.5);
+width: 350px;
+height: 450px;
+position: relative;
+left: 50px;
+top: 30px;
+}
+
+
+.email{
+ position: relative;
+top: 125px;
+left: 35px;
+width: 268px;
+height: 37px;
+background-color: #e8f0fe50;
+border:1px solid #e8f0fe;
+}
+.password{
+    position: relative;
+    top: 150px;
+    right: -35px;
+    width: 268px;
+height: 37px;
+background-color: #e8f0fe50;
+border: #e8F0fe 1px solid;
+
+}
+
+.show{
+    
+    position: relative;
+    top: 150px;
+    right: 17px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+
+.loginblue{
+    width: 269px;
+    height: 32px;
+    top: 165px;
+    position: relative;
+    left: 35px;
+    background-color: #0095F6;
+    border-radius: 10px;
+    color: white;
+    border: none;
+    font: 800;
+    font-size: 15px;
+}
+
+.fblogin{
+width: 15px;
+height: 15px;
+position: relative;
+top: 210px;
+right: 175px;
+}
+
+.lgt{
+    color: #385185;
+    position: relative;
+    top: 168px;
+    left: 120px;
+}
+
+.reset{
+    color: #00376b6d;
+    position: relative;
+    top: 165px;
+    left: 100px;
+    font-size: 16px;
+}
+
+
+.recover{
+    width: 350px;
+    height: 62px;
+    border: 1px solid rgb(128, 128, 128,0.5);
+    position: relative;
+top: 215px;
+}
+
+
+.acc{
+    font-size: 17px;
+    text-align: center;
+    position: relative;
+    right: 30px;
+    top: 5px;
+}
+
+#sign{
+    color: #0095f6;
+    text-decoration: none;
+    font-size: 17px;
+    text-align: center;
+    position: relative;
+    left: 230px;
+    bottom: 30px;
+
+}
+
+
+.get{
+    position: relative;
+width: 380;
+font-size: 17px;
+text-align: center;
+}
+
+
+.microsoft{
+width: 135px;
+position: relative;
+height: 45px;
+left: 32px;
+margin-bottom: 10px;
+}
+
+.play{
+    width: 144px;
+    height: 64px;
+    left: 28px;
+position: relative;
+
+}
